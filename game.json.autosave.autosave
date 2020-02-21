@@ -1,0 +1,3511 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 98,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adMobAppId": "",
+    "folderProject": false,
+    "linuxExecutableFilename": "",
+    "macExecutableFilename": "",
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "projectFile": "/home/enzoam/Documents/GDevelop projects/My project10/game.json.autosave",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "winExecutableFilename": "",
+    "winExecutableIconFile": "",
+    "name": "Project",
+    "author": "Gene-Z Games",
+    "windowWidth": 800,
+    "windowHeight": 600,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "showGDevelopSplash": true
+    },
+    "extensions": [
+      {
+        "name": "BuiltinObject"
+      },
+      {
+        "name": "BuiltinAudio"
+      },
+      {
+        "name": "BuiltinVariables"
+      },
+      {
+        "name": "BuiltinTime"
+      },
+      {
+        "name": "BuiltinMouse"
+      },
+      {
+        "name": "BuiltinKeyboard"
+      },
+      {
+        "name": "BuiltinJoystick"
+      },
+      {
+        "name": "BuiltinCamera"
+      },
+      {
+        "name": "BuiltinWindow"
+      },
+      {
+        "name": "BuiltinFile"
+      },
+      {
+        "name": "BuiltinNetwork"
+      },
+      {
+        "name": "BuiltinScene"
+      },
+      {
+        "name": "BuiltinAdvanced"
+      },
+      {
+        "name": "Sprite"
+      },
+      {
+        "name": "BuiltinCommonInstructions"
+      },
+      {
+        "name": "BuiltinCommonConversions"
+      },
+      {
+        "name": "BuiltinStringInstructions"
+      },
+      {
+        "name": "BuiltinMathematicalTools"
+      },
+      {
+        "name": "BuiltinExternalLayouts"
+      }
+    ],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mais_zoom-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "mais_zoom-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-2-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-7-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-13.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-16.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sprite_agua-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sprite_agua-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-17-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-17-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-19.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-20.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-21.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-0.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "center_screen-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "center_screen-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1-22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1-22.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "plataforma1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plataforma1-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1-10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-2-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player_initial.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "player_initial.png",
+        "smoothed": false,
+        "userAdded": true
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "level0",
+      "name": "level0",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.448
+      },
+      "objectsGroups": [
+        {
+          "name": "plataformas",
+          "objects": [
+            {
+              "name": "tiledpiece1"
+            },
+            {
+              "name": "box1"
+            },
+            {
+              "name": "mola"
+            },
+            {
+              "name": "plataforma1"
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "name": "zoom_cam1",
+          "value": "0"
+        },
+        {
+          "name": "chance_time",
+          "value": "99"
+        },
+        {
+          "name": "ciclo_agua",
+          "value": "0"
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "heroi",
+          "width": 0,
+          "x": 512,
+          "y": 896,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 832,
+          "x": -128,
+          "y": 1024,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 544,
+          "x": 1280,
+          "y": 640,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 128,
+          "x": 1312,
+          "y": -64,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 1952,
+          "x": -128,
+          "y": -320,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 384,
+          "x": 672,
+          "y": 288,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece1",
+          "width": 480,
+          "x": 1344,
+          "y": 1024,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "mais_zoom",
+          "width": 0,
+          "x": 736,
+          "y": 0,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "menos_zoom",
+          "width": 0,
+          "x": 672,
+          "y": 0,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1152,
+          "layer": "",
+          "locked": false,
+          "name": "fundo_background",
+          "width": 1472,
+          "x": -320,
+          "y": -288,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GUI",
+          "locked": false,
+          "name": "inventario_grid",
+          "width": 704,
+          "x": 56,
+          "y": 506,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GUI",
+          "locked": false,
+          "name": "TIMER",
+          "width": 96,
+          "x": 352,
+          "y": 0,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 192,
+          "layer": "GAME",
+          "locked": false,
+          "name": "sprite_agua",
+          "width": 1952,
+          "x": -128,
+          "y": 1088,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "INVENTARIO",
+          "locked": false,
+          "name": "ico_bola",
+          "width": 50,
+          "x": 128,
+          "y": 512,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "INVENTARIO",
+          "locked": false,
+          "name": "ico_box1",
+          "width": 50,
+          "x": 64,
+          "y": 512,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "INVENTARIO",
+          "locked": false,
+          "name": "ico_mola",
+          "width": 50,
+          "x": 192,
+          "y": 512,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1664,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece2",
+          "width": 64,
+          "x": -192,
+          "y": -320,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1664,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece2",
+          "width": 64,
+          "x": 1824,
+          "y": -320,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "GAME",
+          "locked": false,
+          "name": "tiledpiece2",
+          "width": 1952,
+          "x": -128,
+          "y": 1280,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "outbox_item",
+          "width": 0,
+          "x": -448,
+          "y": -288,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "center_screen",
+          "width": 0,
+          "x": 352,
+          "y": 224,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "qtd_box1",
+          "width": 0,
+          "x": 64,
+          "y": 544,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "qtd_bola",
+          "width": 0,
+          "x": 128,
+          "y": 544,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "qtd_mola",
+          "width": 0,
+          "x": 192,
+          "y": 544,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "",
+          "locked": false,
+          "name": "ico_plataforma1",
+          "width": 47,
+          "x": 257,
+          "y": 514,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "qtd_plataforma1",
+          "width": 0,
+          "x": 256,
+          "y": 544,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 800,
+          "y": 896,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 960,
+          "y": 800,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 1120,
+          "y": 672,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 1152,
+          "y": 416,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 992,
+          "y": 224,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 1504,
+          "y": 576,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 1120,
+          "y": 96,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 480,
+          "y": 288,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 1600,
+          "y": 960,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GAME",
+          "locked": false,
+          "name": "clique_aqui",
+          "width": 0,
+          "x": 0,
+          "y": 960,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "height": 32,
+          "name": "plataforma",
+          "tags": "",
+          "texture": "NewFile-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "name": "heroi",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": true,
+              "canSleep": false,
+              "shape": "Box",
+              "shapeDimensionA": 48,
+              "shapeDimensionB": 95,
+              "shapeOffsetX": 2,
+              "shapeOffsetY": 17,
+              "polygonOrigin": "Origin",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_initial.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 5
+                          },
+                          {
+                            "x": 100,
+                            "y": 5
+                          },
+                          {
+                            "x": 100,
+                            "y": 125
+                          },
+                          {
+                            "x": 33,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "tiledpiece2",
+          "tags": "",
+          "texture": "NewFile-1-21.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Static",
+              "bullet": false,
+              "fixedRotation": true,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "tiledpiece1",
+          "tags": "",
+          "texture": "NewFile-1-0.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Static",
+              "bullet": false,
+              "fixedRotation": true,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ]
+        },
+        {
+          "name": "mais_zoom",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "mais_zoom",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "mais_zoom-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "menos_zoom",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "camera1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "height": 32,
+          "name": "fundo_background",
+          "tags": "",
+          "texture": "NewFile-1-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 64,
+          "name": "inventario_grid",
+          "tags": "",
+          "texture": "NewFile-1-2-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "TIMER",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "00",
+          "font": "",
+          "characterSize": 60,
+          "color": {
+            "b": 2,
+            "g": 220,
+            "r": 255
+          }
+        },
+        {
+          "name": "box1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 64,
+              "shapeDimensionB": 64,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ico_box1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "qtd_box1",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "name": "bola",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": false,
+              "shape": "Circle",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 0.5,
+              "friction": 1,
+              "restitution": 1,
+              "linearDamping": 1,
+              "angularDamping": 1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ico_bola",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "qtd_bola",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "name": "mola",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Dynamic",
+              "bullet": false,
+              "fixedRotation": true,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 52,
+              "shapeDimensionB": 14,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 10,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.1,
+              "restitution": 1.5,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewFile-1-7-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ico_mola",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewFile-1-7-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "qtd_mola",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "name": "outbox_item",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"NewObject\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":64,\\\"width\\\":64,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":2,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABACAYAAADS1n9/AAAA9UlEQVR4Xu3UAQ0AAAyDsM+/6QspcwAh2zXawGj64K8A8AgKoABwAzh+D1AAuAEcvwcoANwAjt8DFABuAMfvAQoAN4Dj9wAFgBvA8XuAAsAN4Pg9QAHgBnD8HqAAcAM4fg9QALgBHL8HKADcAI7fAxQAbgDH7wEKADeA4/cABYAbwPF7gALADeD4PUAB4AZw/B6gAHADOH4PUAC4ARy/BygA3ACO3wMUAG4Ax+8BCgA3gOP3AAWAG8Dxe4ACwA3g+D1AAeAGcPweoABwAzh+D1AAuAEcvwcoANwAjt8DFABuAMfvAQoAN4Dj9wAFgBvA8XsAPIAHyVAAQYgTPMkAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1 (imported)\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":2,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0],[1]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAABACAYAAADS1n9/AAACYElEQVR4Xu2aS5LCMAwFzSlYzv2PNcs5BVNOVSggPyd+lizcWVKgyOpG/iS3xDV0BW5Dj57BJwQYXAIEQIDBKzD48OkACDB4BQYfPh0AAQavwODDpwMgQF8VePymx+2H8wkrKl11gAw//aWU7ikhgY0C3QjwhD+PGwlMDOhCgAV8JDCBn2/iLsAmfCQwkcBVgFX495TmdcBkKAvCpiK4CbAFPwNnJ9CU+VtwFwH24NsNnTu5rgHeJChc8dMZ9NK6dIB5GKUSTN/LF2cEcgNcBcijOZKA6ULO3H8N8DmkLQl2t4iF00bb8sWP7t4BjqaDt/b/WW8kqDawCwFK2jynhdWsVwO4C1Da5kskaVOi747qKsDuSeDLUfBzB/DKgvYvMdNNgKOTwGnLt3UBXwLf7SCopJ0z58sY7wYy7wAl8Fd3BvlD/vlyK0wFOAN/IQHw5fBNp4Ar8F8l4LFwE/42L4TUwG8zbKLOFWg+BQC/b9maCgD8vuE3XQMAv3/4zQQAfgz4TQQAfhz4cgGAHwu+VIDNBzu82t21FZJdAOf2XTNu+yyg9Hl+3BJ9d+ZVHQD48eW4LMAufJ7chTHjkgDAD8P3MNHTAhzC599/WPSevnBagJw8c39PCOtyuSTArgS8uFFHxPjXlwVYlQD4xvjqb1clwEICBKgnYhyhWoCnBBz5GqPT3E4iwCwB7+1poFhGkQlgmTT30lUAAXS1DBkJAUJi0yWNALpahoyEACGx6ZJGAF0tQ0ZCgJDYdEkjgK6WISMhQEhsuqQRQFfLkJEQICQ2XdIIoKtlyEgIEBKbLul/IeTVQcEqfnIAAAAASUVORK5CYII=\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[]}}\",\"name\":\"NewObject\",\"paths\":[\"/home/enzoam/Documents/GDevelop projects/My project10/NewObject-1-10.png\",\"/home/enzoam/Documents/GDevelop projects/My project10/NewObject-2-3.png\"],\"singleFrame\":false}}",
+                  "timeBetweenFrames": 0.03,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-2-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "center_screen",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "center_screen",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "center_screen-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sprite_agua",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Kinematic",
+              "bullet": false,
+              "fixedRotation": false,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 0,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 20,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "sprite_agua",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "sprite_agua-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "plataforma1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Physics2",
+              "type": "Physics2::Physics2Behavior",
+              "bodyType": "Static",
+              "bullet": false,
+              "fixedRotation": true,
+              "canSleep": true,
+              "shape": "Box",
+              "shapeDimensionA": 0,
+              "shapeDimensionB": 17,
+              "shapeOffsetX": 0,
+              "shapeOffsetY": 0,
+              "polygonOrigin": "Center",
+              "vertices": [],
+              "density": 1,
+              "friction": 0.3,
+              "restitution": 0.1,
+              "linearDamping": 0.1,
+              "angularDamping": 0.1,
+              "gravityScale": 1,
+              "layers": 1,
+              "masks": 1
+            }
+          ],
+          "animations": [
+            {
+              "name": "plataforma1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "plataforma1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 63.5,
+                            "y": 25
+                          },
+                          {
+                            "x": 63.5,
+                            "y": 39
+                          },
+                          {
+                            "x": -0.5,
+                            "y": 39
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ico_plataforma1",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "plataforma1-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "qtd_plataforma1",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          }
+        },
+        {
+          "name": "clique_aqui",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "zoom_cam1",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"chance_time\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "chance_time",
+                "=",
+                "99"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"mili_cicle\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "sprite_agua",
+                "=",
+                "200"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "sprite_agua",
+                "=",
+                "1090"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "center_screen"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "center_screen",
+                "heroi",
+                "50",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "<",
+                    "heroi.X()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "+",
+                    "5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    ">",
+                    "heroi.X()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "-",
+                    "5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "<",
+                    "heroi.Y()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "+",
+                    "5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PosY"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "<",
+                    "heroi.Y()"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "center_screen",
+                    "-",
+                    "5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "center_screen",
+                "",
+                "\"GAME\"",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ZoomCamera"
+              },
+              "parameters": [
+                "",
+                "Variable(zoom_cam1)",
+                "\"GAME\"",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "fundo_background",
+                "=",
+                "CameraX(\"GAME\", 0) * -0.3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "TIMER",
+                "=",
+                "VariableString(chance_time)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "menos_zoom",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "zoom_cam1",
+                "-",
+                "0.1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "mais_zoom",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "zoom_cam1",
+                "+",
+                "0.1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"chance_time\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "chance_time",
+                ">",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "chance_time",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"chance_time\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.1",
+                "\"mili_cicle\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"mili_cicle\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "ciclo_agua",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ciclo_agua",
+                "<=",
+                "10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeHeight"
+              },
+              "parameters": [
+                "sprite_agua",
+                "+",
+                "0.3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "sprite_agua",
+                "-",
+                "0.3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "sprite_agua",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ciclo_agua",
+                ">",
+                "10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeHeight"
+              },
+              "parameters": [
+                "sprite_agua",
+                "-",
+                "0.3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "sprite_agua",
+                "+",
+                "0.3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "sprite_agua",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "ciclo_agua",
+                ">",
+                "20"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "ciclo_agua",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "sprite_agua",
+                "=",
+                "1090"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "sprite_agua",
+                "=",
+                "200"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::Collision"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "plataformas",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Space"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Physics2::ApplyForce"
+                  },
+                  "parameters": [
+                    "heroi",
+                    "Physics2",
+                    "",
+                    "-120",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::ApplyImpulse"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "-0.05",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "a"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::ApplyImpulse"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "-0.05",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::ApplyImpulse"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "0.05",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "d"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::ApplyImpulse"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "0.05",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::Collision"
+              },
+              "parameters": [
+                "heroi",
+                "Physics2",
+                "bola",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::ApplyForceTowardPosition"
+              },
+              "parameters": [
+                "bola",
+                "Physics2",
+                "10",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::Collision"
+              },
+              "parameters": [
+                "mola",
+                "Physics2",
+                "tiledpiece1",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Physics2::SetStatic"
+              },
+              "parameters": [
+                "mola",
+                "Physics2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "clique_aqui",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "outbox_item",
+                "=",
+                "clique_aqui.X()",
+                "=",
+                "clique_aqui.Y()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "outbox_item",
+                "=",
+                "5000"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "outbox_item",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "outbox_item",
+                "clique_aqui",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ico_plataforma1",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "plataforma1",
+                    "\"plataforma1\"",
+                    "outbox_item.X()",
+                    "outbox_item.Y()",
+                    "\"GAME\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "clique_aqui",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "outbox_item"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ico_mola",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "mola",
+                    "\"mola\"",
+                    "outbox_item.X()",
+                    "outbox_item.Y()",
+                    "\"GAME\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "clique_aqui",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "outbox_item"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ico_bola",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "bola",
+                    "\"bola\"",
+                    "outbox_item.X()",
+                    "outbox_item.Y()",
+                    "\"GAME\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "clique_aqui",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "outbox_item"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ico_box1",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CreateByName"
+                  },
+                  "parameters": [
+                    "",
+                    "box1",
+                    "\"box1\"",
+                    "outbox_item.X()",
+                    "outbox_item.Y()",
+                    "\"GAME\""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "clique_aqui",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "outbox_item"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "name": "GAME",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "INVENTARIO",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "name": "GUI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Physics2",
+          "type": "Physics2::Physics2Behavior",
+          "gravityX": 0,
+          "gravityY": 9.8,
+          "scaleX": 100,
+          "scaleY": 100
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        }
+      ]
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
